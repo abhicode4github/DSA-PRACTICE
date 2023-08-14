@@ -1,3 +1,6 @@
+OBJECTIVE-
+In this CPP Program we need to Insert a new element inside the sorted array .
+
 #include <iostream>
 using namespace std;
 
