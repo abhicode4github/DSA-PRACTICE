@@ -1,3 +1,6 @@
+OBJECTIVE-
+In this CPP Program we have to check whether the elements of the array input by the user is in Sorted order or not.
+
 #include <iostream>
 using namespace std;
 
