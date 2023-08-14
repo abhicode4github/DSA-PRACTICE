@@ -1,3 +1,6 @@
+OBJECTIVE -
+In this cpp program we have to make -ve numbers on one side and the +ve numbers on the other side .
+
 #include <iostream>
 using namespace std;
 
